@@ -23,6 +23,7 @@ For the Designing and Implementing Cloud Connectivity v1.0 (ENCC 300-440) exam, 
 
 - [Networking in Google Cloud Platform](https://www.packtpub.com/product/networking-in-google-cloud-platform/9781839214355)
 
+## AWS/AZURE/GCP Documenation:
 
 ## AWS VPN:
 - [AWS Site-to-Site VPN](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)
