@@ -3,6 +3,27 @@ Useful Documents for 300-440 ENCC v1.0
 
 For the Designing and Implementing Cloud Connectivity v1.0 (ENCC 300-440) exam, the following AWS, Azure, and Google Cloud resources will aid anyone studying for the exam. These resources can also be beneficial for other exams within the Cisco Multicloud Specialist Certifications.
 
+## Cisco Books:
+
+- [Cisco SD-WAN: Secure and Optimize Cloud-Enabled Branch](https://www.ciscopress.com/store/cisco-sd-wan-secure-and-optimize-cloud-enabled-branch-9780137148582)
+
+- [Architecting Enterprise Cloud Connectivity](https://www.ciscopress.com/store/architecting-enterprise-cloud-connectivity-9780137565715)
+
+- [CCNP and CCIE Enterprise Core & CCNP Enterprise Advanced Routing & Services Official Cert Guide Library](https://www.ciscopress.com/store/ccnp-and-ccie-enterprise-core-ccnp-enterprise-advanced-9781587147029)
+
+## AWS Book:
+
+- [AWS Certified Advanced Networking Official Study Guide](https://www.amazon.com/Certified-Advanced-Networking-Official-Study/dp/1119659122)
+
+## Microsoft Azure Book:
+
+- [Microsoft Azure Networking Cookbook](https://www.packtpub.com/product/microsoft-azure-networking-cookbook/9781839214355)
+
+## Google Cloud Book:
+
+- [Networking in Google Cloud Platform](https://www.packtpub.com/product/networking-in-google-cloud-platform/9781839214355)
+
+
 ## AWS VPN:
 - [AWS Site-to-Site VPN](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)
 - [AWS VPN CloudHub](https://docs.aws.amazon.com/vpn/latest/s2svpn/vpn-cloudhub.html)
