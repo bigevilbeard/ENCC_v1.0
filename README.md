@@ -14,13 +14,13 @@ For the Designing and Implementing Cloud Connectivity v1.0 (ENCC 300-440) exam, 
 
 Relevant Resources:
 
-- [Cisco ASA Site-to-Site VPN](https://www.cisco.com/c/en/us/support/docs/security/asa-5500-x-series-next-generation-firewalls/113337-asa-vpn-config.html)
-- [Cisco IOS Site-to-Site VPN](https://www.cisco.com/c/en/us/support/docs/security/secure-socket-layer-ssl/13677-config-ios-ssl.html)
+- [Cisco ASA Site-to-Site VPN](https://www.cisco.com/c/en/us/support/docs/security/asa-5500-x-series-firewalls/215884-configure-a-site-to-site-vpn-tunnel-with.html)
+- [Security for VPNs with IPsec Configuration Guide, Cisco IOS XE ](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec_conn_vpnips/configuration/xe-16-12/sec-sec-for-vpns-w-ipsec-xe-16-12-book/sec-cfg-vpn-ipsec.html)
 - [AWS Site-to-Site VPN](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)  
-- [Azure VPN Gateway Overview](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vnet-to-vnet-connectivity) 
-- [Google Cloud VPN Overview](https://cloud.google.com/network-connectivity/docs/vpn/overview)
-- [Architecting Enterprise Cloud Connectivity](https://www.ciscopress.com/store/architecting-enterprise-cloud-connectivity-9780137565715) 
-- [CCNP and CCIE Enterprise Core & CCNP Enterprise Advanced Routing & Services Official Cert Guide Library](https://www.ciscopress.com/store/ccnp-and-ccie-enterprise-core-ccnp-enterprise-advanced-9781587147029)
+- [Azure VPN Gateway Overview]([https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vnet-to-vnet-connectivity](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)) 
+- [Google Cloud VPN Overview](https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview)
+- [SAFE Secure Cloud Architecture Guide](https://www.cisco.com/c/en/us/solutions/collateral/enterprise/design-zone-security/safe-secure-cloud-architecture-guide.html) 
+- [Enterprise Core ENCOR 350-401 and Advanced Routing ENARSI 300-410 Official Cert Guide Library](https://www.ciscopress.com/store/ccnp-enterprise-core-encor-350-401-and-advanced-routing-9781587147111)
 
 ##### 1.1.b Cisco SD-WAN internet connectivity  
 
@@ -29,8 +29,8 @@ Relevant Resources:
 - [Cisco SD-WAN Design Guide](https://www.cisco.com/c/en/us/solutions/collateral/enterprise-networks/intelligent-wan-iwan/design-guide-c07-739736.html)
 - [Cisco SD-WAN: Secure and Optimize Cloud-Enabled Branch](https://www.ciscopress.com/store/cisco-sd-wan-secure-and-optimize-cloud-enabled-branch-9780137148582)
 - [AWS Site-to-Site VPN](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)  
-- [Azure VPN Gateway Overview](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vnet-to-vnet-connectivity)
-- [Google Cloud VPN Overview](https://cloud.google.com/network-connectivity/docs/vpn/overview)
+- [Google Cloud VPN Overview](https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview)
+- [Azure VPN Gateway Overview]([https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vnet-to-vnet-connectivity](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)) 
 
 #### 1.2 Private connectivity to cloud providers  
 
@@ -45,8 +45,8 @@ Relevant Resources:
 - [AWS Direct Connect User Guide](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)
 - [Azure ExpressRoute Overview](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction)
 - [Google Cloud Interconnect Overview](https://cloud.google.com/network-connectivity/docs/interconnect/concepts/overview)
-- [Architecting Enterprise Cloud Connectivity](https://www.ciscopress.com/store/architecting-enterprise-cloud-connectivity-9780137565715)
-- [CCNP and CCIE Enterprise Core & CCNP Enterprise Advanced Routing & Services Official Cert Guide Library](https://www.ciscopress.com/store/ccnp-and-ccie-enterprise-core-ccnp-enterprise-advanced-9781587147029)
+- [Cisco Cloud Infrastructure](https://www.ciscopress.com/store/cisco-cloud-infrastructure-9780137690121)
+- [Enterprise Core ENCOR 350-401 and Advanced Routing ENARSI 300-410 Official Cert Guide Library](https://www.ciscopress.com/store/ccnp-enterprise-core-encor-350-401-and-advanced-routing-9781587147111)
 
 #### 1.3 Connectivity to SaaS cloud providers
 
@@ -57,7 +57,7 @@ Relevant Resources:
 
 Relevant Resources: 
 
-- [Cisco SD-WAN: Secure and Optimize Cloud-Enabled Branch](https://www.ciscopress.com/store/cisco-sd-wan-secure-and-optimize-cloud-enabled-branch-9780137148582)  
+- [Cisco SD-WAN Design Guide](https://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/SDWAN/CVD-SD-WAN-Design-2018OCT.pdf)  
 - [AWS Direct Connect User Guide](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)
 - [Azure ExpressRoute Overview](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction)
 - [Google Cloud Interconnect Overview](https://cloud.google.com/network-connectivity/docs/interconnect/concepts/overview)
@@ -75,10 +75,10 @@ Relevant Resources:
 Relevant Resources:
 
 - [AWS Transit Gateway Guide](https://docs.aws.amazon.com/transit-gateway/latest/tgw-ug/what-is-transit-gateway.html) 
-- [Azure Virtual Networks Overview](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
+- [Azure Virtual Network Integration](https://learn.microsoft.com/en-us/azure/app-service/overview-vnet-integration)
 - [Google Cloud Networks Overview](https://cloud.google.com/vpc/docs/vpc)  
-- [Architecting Enterprise Cloud Connectivity](https://www.ciscopress.com/store/architecting-enterprise-cloud-connectivity-9780137565715)
-- [CCNP and CCIE Enterprise Core & CCNP Enterprise Advanced Routing & Services Official Cert Guide Library](https://www.ciscopress.com/store/ccnp-and-ccie-enterprise-core-ccnp-enterprise-advanced-9781587147029)
+- [Cisco Cloud Infrastructure](https://www.ciscopress.com/store/cisco-cloud-infrastructure-9780137690121)
+- [Enterprise Core ENCOR 350-401 and Advanced Routing ENARSI 300-410 Official Cert Guide Library](https://www.ciscopress.com/store/ccnp-enterprise-core-encor-350-401-and-advanced-routing-9781587147111)
 
 ### 3.0 IPsec Cloud Connectivity (25%)   
 
@@ -94,10 +94,10 @@ Relevant Resources:
 - [Azure VPN Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vnet-to-vnet-connectivity) 
 - [Google Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn/overview)  
 - [AWS Route Tables](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html)
-- [Azure Virtual Network Integration](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-integrate-with-azure-and-on-premises)
-- [Google Cloud Routes and Firewall Rules](https://cloud.google.com/vpc/docs/routes-firewalls)
-- [Architecting Enterprise Cloud Connectivity](https://www.ciscopress.com/store/architecting-enterprise-cloud-connectivity-9780137565715)
-- [CCNP and CCIE Enterprise Core & CCNP Enterprise Advanced Routing & Services Official Cert Guide Library](https://www.ciscopress.com/store/ccnp-and-ccie-enterprise-core-ccnp-enterprise-advanced-9781587147029)  
+- [Azure Virtual Network Integration](https://learn.microsoft.com/en-us/azure/app-service/overview-vnet-integration)
+- [VPC firewall rules](https://cloud.google.com/firewall/docs/firewalls)
+- [Cisco Cloud Infrastructure](https://www.ciscopress.com/store/cisco-cloud-infrastructure-9780137690121)
+- [Enterprise Core ENCOR 350-401 and Advanced Routing ENARSI 300-410 Official Cert Guide Library](https://www.ciscopress.com/store/ccnp-enterprise-core-encor-350-401-and-advanced-routing-9781587147111)
 
 ### 4.0 SD-WAN Cloud Connectivity (25%)
 
@@ -109,13 +109,14 @@ Relevant Resources:
 
 Relevant Resources:
 
-- [Cisco SD-WAN Policies](https://www.cisco.com/c/en/us/td/docs/routers/sdwan/configuration/policies/ios-xe-17/policy-configure-policies-xe/b-policy-ios-xe-17-book/b-policy-ios-xe-17-chapter_01010.html)
-- [Cisco SD-WAN: Secure and Optimize Cloud-Enabled Branch](https://www.ciscopress.com/store/cisco-sd-wan-secure-and-optimize-cloud-enabled-branch-9780137148582)
-- [AWS Site-to-Site VPN](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html) 
-- [Azure VPN Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vnet-to-vnet-connectivity)
-- [Google Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn/overview)   
-- [Architecting Enterprise Cloud Connectivity](https://www.ciscopress.com/store/architecting-enterprise-cloud-connectivity-9780137565715)
-- [CCNP and CCIE Enterprise Core & CCNP Enterprise Advanced Routing & Services Official Cert Guide Library](https://www.ciscopress.com/store/ccnp-and-ccie-enterprise-core-ccnp-enterprise-advanced-9781587147029)
+- [Cisco Software-Defined Wide Area Networks: Designing, Deploying and Securing Your Next Generation WAN with Cisco SD-WAN](https://www.ciscopress.com/store/cisco-software-defined-wide-area-networks-designing-9780136533177)
+- [Cisco SD-WAN Policies](https://learningnetwork.cisco.com/s/article/cisco-sd-wan-policy)
+- [Cisco SD-WAN Design Guide](https://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/SDWAN/CVD-SD-WAN-Design-2018OCT.pdf)  
+- [AWS Site-to-Site VPN](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)
+- [Azure VPN Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vnet-to-vnet-connectivity) 
+- [Google Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn/overview)  
+- [Cisco Cloud Infrastructure](https://www.ciscopress.com/store/cisco-cloud-infrastructure-9780137690121)
+- [Enterprise Core ENCOR 350-401 and Advanced Routing ENARSI 300-410 Official Cert Guide Library](https://www.ciscopress.com/store/ccnp-enterprise-core-encor-350-401-and-advanced-routing-9781587147111)
 
 ### 5.0 Operation (20%)  
 
@@ -129,9 +130,9 @@ Relevant Resources:
 
 Relevant Resources:
 
-- [Cisco SD-WAN Troubleshooting Guide](https://www.cisco.com/c/en/us/support/docs/security/firepower-ngfw/214109-Cisco-SD-WAN-Troubleshooting-Guide.html) 
+- [Cisco SD-WAN Troubleshooting Tech Notes](https://www.cisco.com/c/en/us/support/routers/sd-wan/products-tech-notes-list.html) 
 - [AWS VPN Troubleshooting](https://docs.aws.amazon.com/vpn/latest/s2svpn/Troubleshooting.html)
 - [Azure VPN Troubleshooting](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot)
-- [Google Cloud VPN Troubleshooting](https://cloud.google.com/network-connectivity/docs/vpn/troubleshooting-cheatsheet)
-- [Architecting Enterprise Cloud Connectivity](https://www.ciscopress.com/store/architecting-enterprise-cloud-connectivity-9780137565715)
-- [CCNP and CCIE Enterprise Core & CCNP Enterprise Advanced Routing & Services Official Cert Guide Library](https://www.ciscopress.com/store/ccnp-and-ccie-enterprise-core-ccnp-enterprise-advanced-9781587147029)
+- [Google Cloud VPN Troubleshooting](https://cloud.google.com/network-connectivity/docs/vpn/support/troubleshooting)
+- [Cisco Cloud Infrastructure](https://www.ciscopress.com/store/cisco-cloud-infrastructure-9780137690121)
+- [Enterprise Core ENCOR 350-401 and Advanced Routing ENARSI 300-410 Official Cert Guide Library](https://www.ciscopress.com/store/ccnp-enterprise-core-encor-350-401-and-advanced-routing-9781587147111)
