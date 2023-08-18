@@ -74,11 +74,16 @@ Relevant Resources:
 
 Relevant Resources:
 
+- [Shared Responsibility Model for Resiliency](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/shared-responsibility-model-for-resiliency.html)
+- [Azure reliability documentation](https://learn.microsoft.com/en-us/azure/reliability/overview)
+- [The building blocks of reliability in Google Cloud](https://cloud.google.com/architecture/infra-reliability-guide/building-blocks)
 - [AWS Transit Gateway Guide](https://docs.aws.amazon.com/transit-gateway/latest/tgw-ug/what-is-transit-gateway.html) 
 - [Azure Virtual Network Integration](https://learn.microsoft.com/en-us/azure/app-service/overview-vnet-integration)
 - [Google Cloud Networks Overview](https://cloud.google.com/vpc/docs/vpc)  
 - [Cisco Cloud Infrastructure](https://www.ciscopress.com/store/cisco-cloud-infrastructure-9780137690121)
 - [Enterprise Core ENCOR 350-401 and Advanced Routing ENARSI 300-410 Official Cert Guide Library](https://www.ciscopress.com/store/ccnp-enterprise-core-encor-350-401-and-advanced-routing-9781587147111)
+- [What Is the NIST Cybersecurity Framework?](https://www.cisco.com/c/en/us/products/security/what-is-nist-csf.html)
+- [FedRAMP Authorized Solutions for Government](https://www.cisco.com/c/en/us/solutions/industries/government/federal-government-solutions/fedramp.html)
 
 ### 3.0 IPsec Cloud Connectivity (25%)   
 
@@ -111,7 +116,8 @@ Relevant Resources:
 
 - [Cisco Software-Defined Wide Area Networks: Designing, Deploying and Securing Your Next Generation WAN with Cisco SD-WAN](https://www.ciscopress.com/store/cisco-software-defined-wide-area-networks-designing-9780136533177)
 - [Cisco SD-WAN Policies](https://learningnetwork.cisco.com/s/article/cisco-sd-wan-policy)
-- [Cisco SD-WAN Design Guide](https://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/SDWAN/CVD-SD-WAN-Design-2018OCT.pdf)  
+- [Cisco SD-WAN Design Guide](https://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/SDWAN/CVD-SD-WAN-Design-2018OCT.pdf)
+- [Cisco SD-WAN Cloud OnRamp Configuration Guide](https://www.cisco.com/c/en/us/td/docs/routers/sdwan/configuration/cloudonramp/ios-xe-17/cloud-onramp-book-xe/cor-saas.html)
 - [AWS Site-to-Site VPN](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)
 - [Azure VPN Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vnet-to-vnet-connectivity) 
 - [Google Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn/overview)  
