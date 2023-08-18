@@ -17,7 +17,7 @@ Relevant Resources:
 - [Cisco ASA Site-to-Site VPN](https://www.cisco.com/c/en/us/support/docs/security/asa-5500-x-series-firewalls/215884-configure-a-site-to-site-vpn-tunnel-with.html)
 - [Security for VPNs with IPsec Configuration Guide, Cisco IOS XE ](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec_conn_vpnips/configuration/xe-16-12/sec-sec-for-vpns-w-ipsec-xe-16-12-book/sec-cfg-vpn-ipsec.html)
 - [AWS Site-to-Site VPN](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)  
-- [Azure VPN Gateway Overview]([https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vnet-to-vnet-connectivity](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)) 
+- [Azure VPN Gateway Overview](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways) 
 - [Google Cloud VPN Overview](https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview)
 - [SAFE Secure Cloud Architecture Guide](https://www.cisco.com/c/en/us/solutions/collateral/enterprise/design-zone-security/safe-secure-cloud-architecture-guide.html) 
 - [Enterprise Core ENCOR 350-401 and Advanced Routing ENARSI 300-410 Official Cert Guide Library](https://www.ciscopress.com/store/ccnp-enterprise-core-encor-350-401-and-advanced-routing-9781587147111)
@@ -30,7 +30,7 @@ Relevant Resources:
 - [Cisco SD-WAN: Secure and Optimize Cloud-Enabled Branch](https://www.ciscopress.com/store/cisco-sd-wan-secure-and-optimize-cloud-enabled-branch-9780137148582)
 - [AWS Site-to-Site VPN](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)  
 - [Google Cloud VPN Overview](https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview)
-- [Azure VPN Gateway Overview]([https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vnet-to-vnet-connectivity](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)) 
+- [Azure VPN Gateway Overview](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways) 
 
 #### 1.2 Private connectivity to cloud providers  
 
